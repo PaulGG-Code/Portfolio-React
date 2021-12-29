@@ -235,7 +235,7 @@ const degrees = {
     {
       title: "EPITA, Paris",
       subtitle: "Masters in Computer Science / Computer Security",
-      logo_path: "ssec.png",
+      logo_path: "epita.png",
       alt_name: "SSEC",
       duration: "2019 - 2021",
       descriptions: [
@@ -249,7 +249,7 @@ const degrees = {
     {
       title: "American University of Science & Technonlogy",
       subtitle: "Bachelor in Information Communication Technology",
-      logo_path: "ssgandhy.png",
+      logo_path: "aust.png",
       alt_name: "AUST",
       duration: "2016 - 2019",
       descriptions: [
@@ -357,7 +357,7 @@ const experience = {
           title: "IoT Security Evaluator",
           company: "Red Alert Labs",
           company_url: "https://redalertlabs.com/",
-          logo_path: "valora.jpg",
+          logo_path: "red.jpg",
           duration: "Apr 2020 - Present",
           location: "Office",
           description:
